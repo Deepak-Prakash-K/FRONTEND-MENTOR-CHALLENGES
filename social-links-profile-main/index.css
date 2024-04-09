@@ -101,7 +101,7 @@ button:hover {
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1440px) {
     .main-div {
         margin: 0;
         margin-left: 600px;
