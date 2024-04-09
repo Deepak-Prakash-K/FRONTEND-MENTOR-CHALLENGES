@@ -101,6 +101,14 @@ button:hover {
     }
 }
 
+@media screen and (min-width: 1024px) {
+    .main-div {
+        margin: 0;
+        margin-left: 600px;
+        margin-top: 110px;
+    }
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
